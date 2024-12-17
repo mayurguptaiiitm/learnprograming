@@ -28,7 +28,7 @@ Architecture For Frontend
 Backend is the server side of a website. It is part of the website that users cannot see and interact with. It is the portion of software that does not come in direct contact with the users. It is used to store and arrange data.
 
 Architecture for Backend
-![[Web Development Backend.png]]
+![[Web Development Backend.png]](https://github.com/mayurguptaiiitm/learnprograming/blob/main/Web%20Development/Images/Web%20Development%20Backend.png)
 
 
 #popular #backend #technologies 
