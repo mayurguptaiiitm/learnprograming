@@ -16,7 +16,7 @@ Web Development can be classified into 2 ways
 The part of the website where the user directly interacts is termed as frontend. It is also referred to as 'client-side' of the application. 
 
 Architecture For Frontend
-![[Web Development Frontend.png]]
+![[https://github.com/mayurguptaiiitm/learnprograming/blob/main/Web%20Development/Images/Web Development Frontend.png]]
 
 #popular #frontend #technologies
 - HTML
